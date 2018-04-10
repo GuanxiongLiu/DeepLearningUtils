@@ -1,3 +1,7 @@
 **/models/**
 *.npy
 *.zip
+**/data
+**/*.pyc
+**/*.png
+**/*.jpg
