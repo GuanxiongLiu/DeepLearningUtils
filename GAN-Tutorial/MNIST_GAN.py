@@ -3,6 +3,8 @@ import tensorflow as tf
 from utils import *
 import numpy as np
 from keras.datasets import mnist
+import matplotlib
+matplotlib.use('agg')
 import matplotlib.pyplot as plt
 
 
